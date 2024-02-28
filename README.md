@@ -3,7 +3,7 @@
 
 In this project, a Pong game is developed in Python using object-oriented programming principles.
 Pong is a two-player game. First paddle is controlled with the 'W' and 'S' keys, and the second paddle is controlled with the 'Up' and 'Down' keys.
-The aim of the project is to try not to miss the ball. A demo version is shown below.
+The aim of the game is to try not to miss the ball. A demo version is shown below.
 
 ## Demo of Pong Game
 
